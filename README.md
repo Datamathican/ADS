@@ -1,1 +1,1 @@
-# ADS
+# Algorithmic Data Science
